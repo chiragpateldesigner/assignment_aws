@@ -3,4 +3,4 @@ CSS Class Declaration :
  - BEM Methology
 
 Technology :
-HTML, Scss, Jquery, Bootstrap, Bower
+ - HTML, Scss, Jquery, Bootstrap, Bower
